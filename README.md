@@ -1,16 +1,32 @@
-## Hi there 👋
+# Saturn
 
-<!--
-**AtSaturn-Dev/AtSaturn-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Developer** • Crafting interactive experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+Building games and interactive systems. Currently exploring procedural generation and physics simulations.
+
+**Tools:** Unity, Unreal Engine, Godot  
+**Languages:** C#, C++, GDScript, GLSL  
+**Focus:** Gameplay mechanics, game feel, shader programming
+
+---
+
+### Currently
+
+- 🎮 Working on a physics-based puzzle game
+- 🌌 Experimenting with procedural space generation
+- 📚 Learning about ECS architecture
+- ☕ Fueled by coffee and curiosity
+
+---
+
+### Projects
+
+Most of my work is experimental and exploratory. Check out the repos below to see what I'm tinkering with.
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=visitors)
