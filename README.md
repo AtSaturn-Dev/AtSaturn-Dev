@@ -1,16 +1,14 @@
-# Saturn
-**Game Developer** *Turning technical curiosity into playable reality.*
+# user: saturn
+> "Experimenting with the unknown until it is understood."
 
----
+```csharp
+public class CurrentFocus : Developer {
+    string[] Languages = { "C#", "C++", "GDScript", "GLSL" };
+    string[] Tools = { "Godot", "Blender", "Open Source Stack" };
 
-### >/ About
-I focus on proof-of-concept development—navigating complex technical challenges by building them from scratch. My work sits at the intersection of engine architecture, technical art, and gameplay logic.
-
-### >/ Stack
-![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=black) ![Blender](https://img.shields.io/badge/BLENDER-%23FFFFFF?style=for-the-badge&logo=blender&logoColor=black) ![C#](https://img.shields.io/badge/C%23-%23FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black) ![C++](https://img.shields.io/badge/C++-%23FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black) ![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
-
-### >/ Status
-| Context | Focus |
-| :--- | :--- |
-| **Research** | Non-standard rendering pipelines & Art Styles |
-| **Project** | 3D Pixelart Implementation (t3ssel8r-esque) |
+    void Update() {
+        Research("3D Pixelart Styling");
+        Study("Advanced Mathematics");
+        Build("Proof of Concepts");
+    }
+}
