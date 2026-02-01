@@ -1,23 +1,17 @@
 # Saturn
-> "Experimenting with stuff I don't even understand until I do."
-
-### / Manifest
-I focus on proof-of-concept development. I prefer to build things from scratch to understand how they actually work.
-
-### / The Stack
-**Engine & Art**
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Blender](https://img.shields.io/badge/Blender-%23FFFFFF.svg?logo=blender)](#)
-
-**Languages**
-[![C#](https://img.shields.io/badge/C%23-%23FFFFFF.svg?logo=c-sharp)](#) [![C++](https://img.shields.io/badge/C++-%23FFFFFF.svg?logo=c%2B%2B)](#) [![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF.svg?logo=opengl)](#) [![GDScript](https://img.shields.io/badge/GDScript-%23FFFFFF.svg?logo=godot-engine)](#)
+**Game Developer** • *Proof of concept through execution.*
 
 ---
 
-### / Status
-* **Research:** Working on styles and rendering techniques.
-* **Experiment:** 3D Pixelart style (t3ssel8r implementation).
-* **Study:** Math.
+### Toolkit
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Blender](https://img.shields.io/badge/Blender-%23FFFFFF.svg?logo=blender)](#) [![OpenSource](https://img.shields.io/badge/Open_Source-%23FFFFFF.svg?logo=open-source-initiative)](#)
+[![C#](https://img.shields.io/badge/C%23-%23FFFFFF.svg?logo=c-sharp)](#) [![C++](https://img.shields.io/badge/C++-%23FFFFFF.svg?logo=c%2B%2B)](#) [![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF.svg?logo=opengl)](#)
 
-<br/>
+### Active Focus
+| Topic | Details |
+| :--- | :--- |
+| **Research** | Styles & Rendering Pipelines |
+| **Art** | 3D Pixelart (t3ssel8r style) |
+| **Study** | Mathematics |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=graywhite&hide_border=true&background=FFFFFF00&ring=333333&fire=333333&currStreakNum=333333)
