@@ -1,32 +1,25 @@
 # Saturn
 
-**Game Developer** • Crafting interactive experiences
+**Game Developer** • Experimenting with stuff i don't even understand until i do.
 
 ---
 
 ### What I Do
 
-Building games and interactive systems. Currently exploring procedural generation and physics simulations.
+I Try to proove to myself that things are possible by actually trying to make them.
 
-**Tools:** Unity, Unreal Engine, Godot  
+**Tools:** Godot, Blender, OpenSource Software  
 **Languages:** C#, C++, GDScript, GLSL  
-**Focus:** Gameplay mechanics, game feel, shader programming
 
 ---
 
 ### Currently
 
-- 🎮 Working on a physics-based puzzle game
-- 🌌 Experimenting with procedural space generation
-- 📚 Learning about ECS architecture
-- ☕ Fueled by coffee and curiosity
-
----
-
-### Projects
-
-Most of my work is experimental and exploratory. Check out the repos below to see what I'm tinkering with.
+- 🎮 Working on styles research
+- 🌌 Experimenting with 3D Pixelart style (t3ssel8r style)
+- ☕ Studying Math
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=visitors)
+![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
