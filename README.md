@@ -1,17 +1,16 @@
 # Saturn
-**Game Developer** • *Proof of concept through execution.*
+**Game Developer**
+> Experimenting with stuff I don't understand until I do.
 
 ---
 
-### Toolkit
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Blender](https://img.shields.io/badge/Blender-%23FFFFFF.svg?logo=blender)](#) [![OpenSource](https://img.shields.io/badge/Open_Source-%23FFFFFF.svg?logo=open-source-initiative)](#)
-[![C#](https://img.shields.io/badge/C%23-%23FFFFFF.svg?logo=c-sharp)](#) [![C++](https://img.shields.io/badge/C++-%23FFFFFF.svg?logo=c%2B%2B)](#) [![GLSL](https://img.shields.io/badge/GLSL-%23FFFFFF.svg?logo=opengl)](#)
+### >/ My Objective
+> I try to prove to myself that things are possible by actually making them exist. No magic, just trial and error.
 
-### Active Focus
-| Topic | Details |
-| :--- | :--- |
-| **Research** | Styles & Rendering Pipelines |
-| **Art** | 3D Pixelart (t3ssel8r style) |
-| **Study** | Mathematics |
+### >/ My Toolbox
+![Godot](https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/BLENDER-%23000000.svg?style=for-the-badge&logo=blender&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-%23000000.svg?style=for-the-badge&logo=opengl&logoColor=white)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=graywhite&hide_border=true&background=FFFFFF00&ring=333333&fire=333333&currStreakNum=333333)
+### >/ Current State
+* **Researching:** Rendering pipelines & Art Styles.
+* **Building:** A 3D Pixelart implementation (t3ssel8r style).
+* **Learning:** Math. (It is a love/hate relationship).
